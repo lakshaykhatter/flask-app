@@ -23,7 +23,7 @@
   "author": "Lakshay Khatter",
   "license": "MIT",
   "engines": {
-    "node": ">=10"
+    "node": "12.16.1"
   },
   "bugs": {
     "url": "https://github.com/sunnykhatter/avoca/issues"
